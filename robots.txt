@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zynsknq.cn/sitemap.xml

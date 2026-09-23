@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5b7ccbc9c1678175efb5ce05",
+  "owner": "bfyahuuga",
+  "repo": "page-a96cfa9c7ac3089702bad054",
+  "title": "清凉云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a96cfa9c7ac3089702bad054",
+      "a": "清凉云",
+      "b": "2027官方最新地址导航",
+      "entity": "清凉云",
+      "brand": "清凉云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c329ce462eb2e32bd2546dfd5b711f8429fd64045b68d44e9765b3cc773c599e",
+      "content": {
+        "primary_entity": "清凉云",
+        "keyword1": "清凉云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，清凉云提供基础版、旗舰版与团队版三档订阅，月付与年付可选。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线游戏加速，团队版每月 1000GB 支持 20 台设备与专属客户经理。按照设备数量与所需流量挑选套餐，再依客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档订阅适配多设备",
+          "AI_HERO_INTRO": "清凉云以套餐区分流量与设备数量，基础版适合个人日常上网，旗舰版面向流媒体与游戏加速需求，团队版提供高带宽节点和企业定制路由。按使用场景选择对应版本，年付比月付更划算。",
+          "AI_VISUAL_TITLE": "清凉云订阅速览",
+          "AI_HIGHLIGHT_1": "基础版 100GB 支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备与专属客服",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与节点类型三个角度对比套餐，能更快找到匹配的订阅。",
+          "AI_FEATURES_TITLE": "套餐选择三要点",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量匹配对应档位。",
+          "AI_FEATURE_TITLE_2": "按设备数选版本",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档同时在线数量，手机、平板与电脑合计在设备限额内。",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_FEATURE_TEXT_3": "年付售价低于月付累计，长期使用可优先考虑年付方案，减少续费次数。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLIENTS_INTRO": "不同设备的客户端安装方式各有差异，建议先确认系统版本与订阅格式，再参考对应文档完成导入。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。流量与设备数量随版本递增，旗舰版额外提供 IPLC 专线与优先工单支持。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择套餐到完成客户端订阅，按顺序操作即可。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数量，在基础版、旗舰版和团队版之间选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端类型，确保订阅格式与客户端导入方式相匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，保存后启动连接，即可按套餐额度使用网络。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_CLOSING_TEXT": "确定流量与设备数量后选版本，按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "基础版适合一至三台设备、每月 100GB 流量以内的轻度使用；旗舰版适合需要更多流量与流媒体解锁的用户；团队版适合多设备或企业场景。",
+          "AI_FAQ_ANSWER_2": "清凉云支持 Clash、Sing-box、Shadowrocket、v2rayN 等常见客户端，具体兼容版本请查看各自客户端的说明文档。",
+          "AI_FAQ_ANSWER_3": "年付方式通常比按月支付更经济，例如旗舰版按年付为 ¥350，相当于每月约 ¥29，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_4": "套餐间的主要差异在于每月流量、可同时在线设备数量、节点线路类型与附加服务，可按需升级。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅链接并更新节点列表，即可根据客户端文档完成配置，不同平台操作步骤略有差异。",
+          "AI_FAQ_QUESTION_1": "不同套餐适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "清凉云支持哪些客户端？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选择更划算？",
+          "AI_FAQ_QUESTION_4": "套餐之间的主要区别是什么？",
+          "AI_FAQ_QUESTION_5": "订阅配置的流程是怎样的？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zynsknq.cn",
+    "host": "zynsknq.cn"
+  },
+  "file_hashes": {
+    "index.html": "959abf427b9f984549449d6df665b3744b122348a5375f684ef7365946c04ab9",
+    "sitemap.xml": "98357f58c7d8b461ea95b6e7744b2eddb8e78b87348b52c3ad6a8aa218370fab",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7a14d38a033eaab47cabccfd30883e2d8568ecc79b7e57fe69399968e8a14235",
+    "robots.txt": "0c9a64b797d41d77e3a15678722fe7493cac30f0b078772e33282b0b4ab03fad",
+    "de770fc1107ee2f031903f30d8365463.txt": "e9f45899672707e9e6d0027fed400bcdebe492620d4869856474c6b2a82642a4"
+  },
+  "revision": "5dcc17276e7c1b27df5a0427902a8a8849d8ed0cdb96775011b9f068cffde9cb"
+}
